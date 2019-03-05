@@ -1,0 +1,20 @@
+h1 {
+    text-align:center;
+    color:red;
+    }
+
+body{
+    background-color:black;
+    text-align:center;
+}
+
+img {
+    height:200px;
+    
+}
+p {
+    color:red;
+}
+.header{
+    align-items:center;
+}
